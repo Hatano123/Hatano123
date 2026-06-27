@@ -5,6 +5,9 @@
 
 AIとアプリケーションを繋ぐ開発が好きで、**ローカルLLMの活用からWeb・スマホアプリへの落とし込み**まで、アイデアを素早く形にするプロトタイピングを得意としています。
 
+大学に入ってからはインフラ構築やロボットアームなどのサークル内での制作に加え、個人開発としてWEBアプリやモバイルアプリを作成しています。
+ハードとソフト両面の知識を持ったエンジニアを目指しています。
+
 ## 🛠 使用する技術
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
